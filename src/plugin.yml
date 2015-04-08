@@ -1,0 +1,10 @@
+main: net.obnoxint.mcdev.realistictnt.RealisticTNT
+name: RealisticTNT
+version: 13a
+author: obnoxint
+website: http://dev.bukkit.org/bukkit-plugins/realistictnt/
+
+commands:
+  rtnt:
+    description: Configure RealisticTNT
+    usage: Something went wrong... Please check the command and try again.
